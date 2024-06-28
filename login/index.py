@@ -10,7 +10,7 @@ jan.configure(background="white")
 jan.resizable(width=False, height=False)
 jan.attributes("-alpha", 0.9)
 
-logo = PhotoImage(file="login\icons\logo_anna.png") #carregarimagem dps
+logo = PhotoImage(file="login\icons\logo_anna2.png") #carregarimagem dps
 
 LeftFrame = Frame(jan, width=200, height=300, bg="BLACK", relief="raise")
 LeftFrame.pack(side=LEFT)
